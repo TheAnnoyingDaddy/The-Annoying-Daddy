@@ -1,13 +1,12 @@
-<!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
+  <title>The Annoying Daddy</title>
 </head>
-<title>The Annoying Daddy</title>
-
-<h1><strong><a href="index.html">TAD</a></strong></h1>
 <center>
+<body>
+<h1><strong><a href="index.html">TAD</a></strong></h1>
   <table cellspacing="50">
     <tr>
       <td>
